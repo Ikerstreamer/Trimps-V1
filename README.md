@@ -1,2 +1,1 @@
-# Trimps-V1
-Old school
+# Trimps.github.io
